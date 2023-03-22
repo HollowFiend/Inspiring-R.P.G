@@ -1,0 +1,128 @@
+D 100 Pirate_Ship_Loot table import:
+
+!import-table-item --Pirate_Ship_Loot --Item --1 --
+!import-table-item --Pirate_Ship_Loot --Silver Pieces (10d20) --1 --
+!import-table-item --Pirate_Ship_Loot --Barrels of wine (1d4) --1 --
+!import-table-item --Pirate_Ship_Loot --Salted meat and preserved fruit rations (3d12) --1 --
+!import-table-item --Pirate_Ship_Loot --A broken compass that points somewhat southeast. --1 --
+!import-table-item --Pirate_Ship_Loot --Replacement sails (1d4) --1 --
+!import-table-item --Pirate_Ship_Loot --Cannonballs (2d20) --1 --
+!import-table-item --Pirate_Ship_Loot --Barrels of gunpowder (1d4) --1 --
+!import-table-item --Pirate_Ship_Loot --A cache of (1d3) rusted random finesse weapons. --1 --
+!import-table-item --Pirate_Ship_Loot --A small statuette of a dragon made of emerald. --1 --
+!import-table-item --Pirate_Ship_Loot --A crate of (1d20) sticks of dynamite. --1 --
+!import-table-item --Pirate_Ship_Loot --Shipment of strange goods😏. (Fantasy drugs?) --1 --
+!import-table-item --Pirate_Ship_Loot --Engraved hand crossbow. --1 --
+!import-table-item --Pirate_Ship_Loot --Cook's frying pan with a strange rune on the bottom. --1 --
+!import-table-item --Pirate_Ship_Loot --Rope - (500ft.) --1 --
+!import-table-item --Pirate_Ship_Loot --Barrels of red wine vinegar (1d4) --1 --
+!import-table-item --Pirate_Ship_Loot --The captain's hat, which magically makes the wearer proficient in perception checks. --1 --
+!import-table-item --Pirate_Ship_Loot --A spyglass which gives advantage on perception or investigation checks more than 50 ft. away. Gives disadvantage when used at a range of under 50 ft. --1 --
+!import-table-item --Pirate_Ship_Loot --A cloak of billowing. --1 --
+!import-table-item --Pirate_Ship_Loot --A small toy of about 14" in height, which plays The Wellerman in full when you push the right arm. The only way to stop it is to break the toy. --1 --
+!import-table-item --Pirate_Ship_Loot --A globe, which can be opened to reveal (1d4) bottles of exquisite rum, each worth at least 25 gp. --1 --
+!import-table-item --Pirate_Ship_Loot --A fine pair of knee-high leather boots worth 10 gp. --1 --
+!import-table-item --Pirate_Ship_Loot --A treasure map leading to a small desert island. --1 --
+!import-table-item --Pirate_Ship_Loot --A mimic masquerading as a full chest of gold. --1 --
+!import-table-item --Pirate_Ship_Loot --A large book bound in leather-like water-resistant material. It appears to be an aquan-common dictionary. --1 --
+!import-table-item --Pirate_Ship_Loot --An old rusted locket containing a picture of the former captain's lover. --1 --
+!import-table-item --Pirate_Ship_Loot --A waterlogged, rusted blunderbuss that still works perfectly well. A close look will reveal a religious script of a sea god along the barrel and trigger. --1 --
+!import-table-item --Pirate_Ship_Loot --The hook hand of the captain, coated with rust but still sharp. (Light simple weapon that deals 1d4 piercing damage and 1d4 poison damage. --1 --
+!import-table-item --Pirate_Ship_Loot --A container with 10d10 limes to prevent scurvy. --1 --
+!import-table-item --Pirate_Ship_Loot --A sextant which gives proficiency for survival checks. --1 --
+!import-table-item --Pirate_Ship_Loot --Flintlock pistols (1d3) --1 --
+!import-table-item --Pirate_Ship_Loot --Wheels of cheese (1d8) --1 --
+!import-table-item --Pirate_Ship_Loot --Cans of food(1d8) --1 --
+!import-table-item --Pirate_Ship_Loot --Goat Fur (1d6) --1 --
+!import-table-item --Pirate_Ship_Loot --Ginger (1 lb) --1 --
+!import-table-item --Pirate_Ship_Loot --Exotic spices (1 lb) --1 --
+!import-table-item --Pirate_Ship_Loot --Barrels of oil (1d4) --1 --
+!import-table-item --Pirate_Ship_Loot --Kegs of alcohol: Rum ? (1d4) --1 --
+!import-table-item --Pirate_Ship_Loot --Cinnamon (1d4 lb) --1 --
+!import-table-item --Pirate_Ship_Loot --Pepper (1 lb) --1 --
+!import-table-item --Pirate_Ship_Loot --Sacks of flour (1d12) --1 --
+!import-table-item --Pirate_Ship_Loot --Sacks of salt (1d12) --1 --
+!import-table-item --Pirate_Ship_Loot --Enough lumber and nails for 2 ship-related repairs. --1 --
+!import-table-item --Pirate_Ship_Loot --Illegal opium. (1d20) --1 --
+!import-table-item --Pirate_Ship_Loot --A mermaid figurehead --1 --
+!import-table-item --Pirate_Ship_Loot --An aquatic creature in a cage --1 --
+!import-table-item --Pirate_Ship_Loot --A damaged warforged parrot, which when repaired will serve the person who repaired it as a familiar. It can cast vicious mockery as a spell-like ability --1 --
+!import-table-item --Pirate_Ship_Loot --A box of bandanas of various colors and patterns. --1 --
+!import-table-item --Pirate_Ship_Loot --A chest filled with (2d8) random potions. --1 --
+!import-table-item --Pirate_Ship_Loot --A chest filled with (2d8) water-breathing potions. --1 --
+!import-table-item --Pirate_Ship_Loot --Arrows (1d100+10) --1 --
+!import-table-item --Pirate_Ship_Loot --Crossbow bolts (1d100+10) --1 --
+!import-table-item --Pirate_Ship_Loot --A set of thieves tools. --1 --
+!import-table-item --Pirate_Ship_Loot --A pouch of 20 rusted caltrops. --1 --
+!import-table-item --Pirate_Ship_Loot --Eggs, which cast fog cloud when smashed. (1d3) --1 --
+!import-table-item --Pirate_Ship_Loot --A fishing rod. --1 --
+!import-table-item --Pirate_Ship_Loot --A small elaborate brass compass. --1 --
+!import-table-item --Pirate_Ship_Loot --A dagger with a hilt that used to have a setting for a gem, but the setting is empty. --1 --
+!import-table-item --Pirate_Ship_Loot --A shield. --1 --
+!import-table-item --Pirate_Ship_Loot --A small mirror. --1 --
+!import-table-item --Pirate_Ship_Loot --A deck of cards. --1 --
+!import-table-item --Pirate_Ship_Loot --A set of normal dice. --1 --
+!import-table-item --Pirate_Ship_Loot --A shovel. --1 --
+!import-table-item --Pirate_Ship_Loot --A guild insignia to a local gang of pirates. --1 --
+!import-table-item --Pirate_Ship_Loot --Leather armor. --1 --
+!import-table-item --Pirate_Ship_Loot --Padded armor. --1 --
+!import-table-item --Pirate_Ship_Loot --Scale armor. --1 --
+!import-table-item --Pirate_Ship_Loot --A tattered, malnourished cat. --1 --
+!import-table-item --Pirate_Ship_Loot --Potatoes (1 lb) --1 --
+!import-table-item --Pirate_Ship_Loot --A small box filled with different-sized buttons. --1 --
+!import-table-item --Pirate_Ship_Loot --Wax (1 lb) --1 --
+!import-table-item --Pirate_Ship_Loot --Carrots (1 lb) --1 --
+!import-table-item --Pirate_Ship_Loot --Chocolate (1 lb) --1 --
+!import-table-item --Pirate_Ship_Loot --A tiny chest carved to look like it has numerous feet on the bottom. --1 --
+!import-table-item --Pirate_Ship_Loot --A tiny cage with no door. --1 --
+!import-table-item --Pirate_Ship_Loot --Grappling hooks. (1d8) --1 --
+!import-table-item --Pirate_Ship_Loot --Carpenters' tools. --1 --
+!import-table-item --Pirate_Ship_Loot --Weavers' tools. --1 --
+!import-table-item --Pirate_Ship_Loot --A fishing net. --1 --
+!import-table-item --Pirate_Ship_Loot --Torches. (1d20) --1 --
+!import-table-item --Pirate_Ship_Loot --An ink pen. --1 --
+!import-table-item --Pirate_Ship_Loot --A signal whistle. --1 --
+!import-table-item --Pirate_Ship_Loot --Dragon chess set. --1 --
+!import-table-item --Pirate_Ship_Loot --A gunpowder horn. --1 --
+!import-table-item --Pirate_Ship_Loot --A ten foot ladder. --1 --
+!import-table-item --Pirate_Ship_Loot --Sealing wax. --1 --
+!import-table-item --Pirate_Ship_Loot --A potion of healing. --1 --
+!import-table-item --Pirate_Ship_Loot --A potion of greater healing. --1 --
+!import-table-item --Pirate_Ship_Loot --Climbers' kit. --1 --
+!import-table-item --Pirate_Ship_Loot --A horn. --1 --
+!import-table-item --Pirate_Ship_Loot --A pistol. --1 --
+!import-table-item --Pirate_Ship_Loot --A musket. --1 --
+!import-table-item --Pirate_Ship_Loot --A dwarven made scoped marksmen rifle. --1 --
+!import-table-item --Pirate_Ship_Loot --Emerald earrings. --1 --
+!import-table-item --Pirate_Ship_Loot --A gem-studded eye patch. --1 --
+!import-table-item --Pirate_Ship_Loot --A solid gold hook used for a formal hand prosthetic --1 --
+!import-table-item --Pirate_Ship_Loot --A bronze skull with green corrosion marks with a tricorn hat and a ruby gem embedded in its eye socket, worth 500 gp. --1 --
+!import-table-item --Pirate_Ship_Loot --A gem encrusted pegleg --1 --
+!import-table-item --Pirate_Ship_Loot --A scimitar which has jade embedded into the pommel. --1 --
+!import-table-item --Pirate_Ship_Loot --Folding boat. --1 --
+
+
+
+D 20 Pirate_Loot import
+!import-table-item --Pirate_Loot --Item --1 --
+!import-table-item --Pirate_Loot --Broken Compass --1 --
+!import-table-item --Pirate_Loot --Eyepatch --1 --
+!import-table-item --Pirate_Loot --Spyglass --1 --
+!import-table-item --Pirate_Loot --Half a map --1 --
+!import-table-item --Pirate_Loot --Whistle --1 --
+!import-table-item --Pirate_Loot --Odd Key --1 --
+!import-table-item --Pirate_Loot --Bottle of Rum --1 --
+!import-table-item --Pirate_Loot --Cutlass --1 --
+!import-table-item --Pirate_Loot --Gold Dabloon --1 --
+!import-table-item --Pirate_Loot --Magically Sealed Locket --1 --
+!import-table-item --Pirate_Loot --Tankard --1 --
+!import-table-item --Pirate_Loot --Tricorn Hat --1 --
+!import-table-item --Pirate_Loot --Peg Leg --1 --
+!import-table-item --Pirate_Loot --Food ration --1 --
+!import-table-item --Pirate_Loot --Biscuits (1d12) --1 --
+!import-table-item --Pirate_Loot --A Letter --1 --
+!import-table-item --Pirate_Loot --Wooden Eyeball --1 --
+!import-table-item --Pirate_Loot --Cloth headwrap --1 --
+!import-table-item --Pirate_Loot --Hook Hand --1 --
+
+
