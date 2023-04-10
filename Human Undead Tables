@@ -1,0 +1,209 @@
+!import-table-item --Human_Loot --Item --1 --
+!import-table-item --Human_Loot --Rope ladder --1 --
+!import-table-item --Human_Loot --Empty wooden crates --1 --
+!import-table-item --Human_Loot --Rusty anchor --1 --
+!import-table-item --Human_Loot --Torn sails --1 --
+!import-table-item --Human_Loot --Wooden barrels of fresh water --1 --
+!import-table-item --Human_Loot --Navigation charts --1 --
+!import-table-item --Human_Loot --Ship's logbook --1 --
+!import-table-item --Human_Loot --Broken oars --1 --
+!import-table-item --Human_Loot --Patched sailcloth --1 --
+!import-table-item --Human_Loot --Fishing nets --1 --
+!import-table-item --Human_Loot --Wooden planks for repairs --1 --
+!import-table-item --Human_Loot --Ship's bell --1 --
+!import-table-item --Human_Loot --Empty rum bottles --1 --
+!import-table-item --Human_Loot --Wooden chest with clothes --1 --
+!import-table-item --Human_Loot --Cannonballs --1 --
+!import-table-item --Human_Loot --Wooden cooking utensils --1 --
+!import-table-item --Human_Loot --Barrel of salted fish --1 --
+!import-table-item --Human_Loot --Ship's lanterns --1 --
+!import-table-item --Human_Loot --Empty glass bottles --1 --
+!import-table-item --Human_Loot --Navigation compass --1 --
+!import-table-item --Human_Loot --Ship's carpentry tools --1 --
+!import-table-item --Human_Loot --Pile of firewood --1 --
+!import-table-item --Human_Loot --Pots and pans --1 --
+!import-table-item --Human_Loot --Cannon powder --1 --
+!import-table-item --Human_Loot --Bucket and mop for cleaning --1 --
+!import-table-item --Human_Loot --Sea charts --1 --
+!import-table-item --Human_Loot --Toolbox with basic tools --1 --
+!import-table-item --Human_Loot --Ship's flag --1 --
+!import-table-item --Human_Loot --Broken spyglass --1 --
+!import-table-item --Human_Loot --Barrel of pickled vegetables --1 --
+!import-table-item --Human_Loot --Ship's first aid kit --1 --
+!import-table-item --Human_Loot --Scraps of sailcloth for patching --1 --
+!import-table-item --Human_Loot --Broom for sweeping --1 --
+!import-table-item --Human_Loot --Barrel of hardtack biscuits --1 --
+!import-table-item --Human_Loot --Hammocks for crew's rest --1 --
+!import-table-item --Human_Loot --Wooden crate of oranges --1 --
+!import-table-item --Human_Loot --Barrel of tar for repairs --1 --
+!import-table-item --Human_Loot --Ship's sextant --1 --
+!import-table-item --Human_Loot --Pile of ropes for rigging --1 --
+!import-table-item --Human_Loot --Bucket of fresh fish caught from the sea --1 --
+!import-table-item --Human_Loot --Wooden chest of spare ropes and knots --1 --
+!import-table-item --Human_Loot --Ship's navigation dividers --1 --
+!import-table-item --Human_Loot --Broken compass with a cracked glass --1 --
+!import-table-item --Human_Loot --Barrel of ale for the crew --1 --
+!import-table-item --Human_Loot --Ship's anchor chain --1 --
+!import-table-item --Human_Loot --Pile of spare ship's flags --1 --
+!import-table-item --Human_Loot --Ship's log stamp --1 --
+!import-table-item --Human_Loot --Barrel of dried fruits --1 --
+!import-table-item --Human_Loot --Ship's telescope with a cracked lens --1 --
+!import-table-item --Human_Loot --Wooden chest of spare ship's nails and screws --1 --
+!import-table-item --Human_Loot --Ship's sextant with a cracked frame --1 --
+!import-table-item --Human_Loot --Pile of spare ship's rigging fittings --1 --
+!import-table-item --Human_Loot --Barrel of vinegar for preserving food --1 --
+!import-table-item --Human_Loot --Ship's chart ruler --1 --
+!import-table-item --Human_Loot --Pile of spare ship's rigging ropes --1 --
+!import-table-item --Human_Loot --Ship's telescope with a missing eyepiece --1 --
+!import-table-item --Human_Loot --Barrel of salt for preserving fish --1 --
+!import-table-item --Human_Loot --Ship's navigation protractor --1 --
+!import-table-item --Human_Loot --Pile of spare ship's pulleys --1 --
+!import-table-item --Human_Loot --Barrel of fresh watermelon --1 --
+!import-table-item --Human_Loot --Ship's logbook with notes on sea creatures --1 --
+!import-table-item --Human_Loot --Pile of spare ship's cleats --1 --
+!import-table-item --Human_Loot --Barrel of molasses for cooking --1 --
+!import-table-item --Human_Loot --Ship's navigation compass with a broken needle --1 --
+!import-table-item --Human_Loot --Pile of spare ship's shackles --1 --
+!import-table-item --Human_Loot --Barrel of rum with a hidden compartment --1 --
+!import-table-item --Human_Loot --Ship's logbook with a map to a hidden treasure --1 --
+!import-table-item --Human_Loot --Pile of spare ship's anchors --1 --
+!import-table-item --Human_Loot --Barrel of gunpowder with a magical enchantment for increased potency --1 --
+!import-table-item --Human_Loot --Ship's navigation charts with markings for secret trade routes --1 --
+!import-table-item --Human_Loot --Pile of spare ship's cannons --1 --
+!import-table-item --Human_Loot --Barrel of enchanted grog that boosts strength and morale --1 --
+!import-table-item --Human_Loot --Ship's logbook with entries written in an ancient, forgotten language --1 --
+!import-table-item --Human_Loot --Pile of spare ship's cannonballs enchanted with fire damage --1 --
+!import-table-item --Human_Loot --Barrel of preserved lemons that grant temporary immunity to scurvy --1 --
+!import-table-item --Human_Loot --Ship's navigation compass that always points towards the nearest safe harbor --1 --
+!import-table-item --Human_Loot --Pile of spare ship's sails enchanted with wind acceleration --1 --
+!import-table-item --Human_Loot --Barrel of enchanted food that never spoils --1 --
+!import-table-item --Human_Loot --Ship's logbook with accounts of encounters with mythical sea creatures --1 --
+!import-table-item --Human_Loot --Pile of spare ship's navigation tools enchanted with enhanced accuracy --1 --
+!import-table-item --Human_Loot --Ship's sextant with a magical ability to predict upcoming weather patterns --1 --
+!import-table-item --Human_Loot --Pile of spare ship's ropes enchanted with strength and durability --1 --
+!import-table-item --Human_Loot --Barrel of enchanted grog that grants temporary water breathing abilities --1 --
+!import-table-item --Human_Loot --Ship's logbook with detailed maps of uncharted islands with hidden treasures --1 --
+!import-table-item --Human_Loot --Pile of spare ship's cannonballs enchanted with frost damage --1 --
+!import-table-item --Human_Loot --Barrel of enchanted fruits that provide sustenance for weeks without spoiling --1 --
+!import-table-item --Human_Loot --Ship's navigation compass with a magical ability to detect nearby magical anomalies --1 --
+!import-table-item --Human_Loot --Pile of spare ship's rigging ropes enchanted with flexibility for easy maneuvering --1 --
+!import-table-item --Human_Loot --Barrel of enchanted ale that grants temporary immunity to sea sickness --1 --
+!import-table-item --Human_Loot --Ship's logbook with accounts of encounters with mermaids and sea serpents --1 --
+!import-table-item --Human_Loot --Pile of spare ship's pulleys enchanted with weight reduction for easier handling --1 --
+!import-table-item --Human_Loot --Barrel of enchanted firewood that burns longer and hotter for efficient cooking and warmth --1 --
+!import-table-item --Human_Loot --Ship's navigation dividers with a magical ability to detect hidden islands and landmasses --1 --
+!import-table-item --Human_Loot --Pile of spare ship's cleats enchanted with anti-weathering properties for longevity --1 --
+!import-table-item --Human_Loot --Barrel of enchanted spices that enhance the flavor and nutrition of shipboard meals --1 --
+!import-table-item --Human_Loot --Ship's logbook with cryptic clues leading to a lost treasure buried on a remote island --1 --
+!import-table-item --Human_Loot --Pile of spare ship's anchors enchanted with stability for secure mooring --1 --
+!import-table-item --Human_Loot --Barrel of enchanted rum that boosts the crew's morale and courage in battle --1 --
+!import-table-item --Human_Loot --Ship's magical compass that always points towards the ship's true destination, regardless of the planned route. --1 --
+
+
+
+
+
+
+!import-table-item --Undead_Loot --Item --1 --
+!import-table-item --Undead_Loot --A dusty old broomstick --1 --
+!import-table-item --Undead_Loot --A broken compass that only points south --1 --
+!import-table-item --Undead_Loot --A pair of moldy leather gloves --1 --
+!import-table-item --Undead_Loot --A tattered sailor's hat --1 --
+!import-table-item --Undead_Loot --A cracked porcelain teacup --1 --
+!import-table-item --Undead_Loot --A skeleton key that doesn't fit any lock --1 --
+!import-table-item --Undead_Loot --A soggy, half-eaten sandwich --1 --
+!import-table-item --Undead_Loot --A rusty lantern with no oil or flame --1 --
+!import-table-item --Undead_Loot --A jar of pickled tentacles --1 --
+!import-table-item --Undead_Loot --A moldy loaf of bread --1 --
+!import-table-item --Undead_Loot --A torn treasure map with missing pieces --1 --
+!import-table-item --Undead_Loot --A moldy, rat-chewed book --1 --
+!import-table-item --Undead_Loot --A set of mismatched socks --1 --
+!import-table-item --Undead_Loot --A jar of ghostly whispers --1 --
+!import-table-item --Undead_Loot --A broken sextant --1 --
+!import-table-item --Undead_Loot --A set of dice with missing numbers --1 --
+!import-table-item --Undead_Loot --A moldy, moth-eaten cloak --1 --
+!import-table-item --Undead_Loot --A jar of glowing mushrooms --1 --
+!import-table-item --Undead_Loot --A broken hourglass that no longer keeps time --1 --
+!import-table-item --Undead_Loot --A pack of playing cards with eerie illustrations --1 --
+!import-table-item --Undead_Loot --A cracked telescope with a cloudy lens --1 --
+!import-table-item --Undead_Loot --A jar of mysterious glowing goo --1 --
+!import-table-item --Undead_Loot --A moldy, waterlogged journal --1 --
+!import-table-item --Undead_Loot --A set of ancient, weathered runes --1 --
+!import-table-item --Undead_Loot --A torn and bloodstained flag --1 --
+!import-table-item --Undead_Loot --A jar of preserved eyeballs --1 --
+!import-table-item --Undead_Loot --A broken spyglass with a scratched lens --1 --
+!import-table-item --Undead_Loot --A moldy, half-eaten apple --1 --
+!import-table-item --Undead_Loot --A set of skeletal dice that roll on their own --1 --
+!import-table-item --Undead_Loot --A jar of enchanted fireflies --1 --
+!import-table-item --Undead_Loot --A broken compass that spins randomly --1 --
+!import-table-item --Undead_Loot --A moldy, crumbling map --1 --
+!import-table-item --Undead_Loot --A shattered glass bottle with a fading message inside --1 --
+!import-table-item --Undead_Loot --A moldy, tattered flag --1 --
+!import-table-item --Undead_Loot --A set of rusty handcuffs --1 --
+!import-table-item --Undead_Loot --A jar of ghostly laughter --1 --
+!import-table-item --Undead_Loot --A broken ship's wheel with missing spokes --1 --
+!import-table-item --Undead_Loot --A moldy, torn sailor's uniform --1 --
+!import-table-item --Undead_Loot --A jar of ghostly tears --1 --
+!import-table-item --Undead_Loot --A cracked spyglass that distorts vision --1 --
+!import-table-item --Undead_Loot --A moldy, broken violin --1 --
+!import-table-item --Undead_Loot --A set of rotting fisherman's nets --1 --
+!import-table-item --Undead_Loot --A jar of ghostly whispers in a foreign language --1 --
+!import-table-item --Undead_Loot --A broken lantern that flickers with ghostly light --1 --
+!import-table-item --Undead_Loot --A moldy, cobweb-covered sextant --1 --
+!import-table-item --Undead_Loot --A jar of eerie glowing jellyfish --1 --
+!import-table-item --Undead_Loot --A shattered glass bottle with a haunting song trapped inside --1 --
+!import-table-item --Undead_Loot --A moldy, rusted cutlass --1 --
+!import-table-item --Undead_Loot --A set of broken oars --1 --
+!import-table-item --Undead_Loot --A jar of ghostly moans and groans --1 --
+!import-table-item --Undead_Loot --A moldy, waterlogged spellbook --1 --
+!import-table-item --Undead_Loot --A cracked skull with glowing eyes --1 --
+!import-table-item --Undead_Loot --A jar of enchanted seashells that sing when held --1 --
+!import-table-item --Undead_Loot --A broken ship's bell that tolls on its own --1 --
+!import-table-item --Undead_Loot --A moldy, rotting seabag --1 --
+!import-table-item --Undead_Loot --A set of cursed mariner's tools --1 --
+!import-table-item --Undead_Loot --A jar of ghostly laughter that echoes through the ship --1 --
+!import-table-item --Undead_Loot --A moldy, broken figurehead --1 --
+!import-table-item --Undead_Loot --A set of rusty ship's chains --1 --
+!import-table-item --Undead_Loot --A jar of ghostly footsteps that echo in the night --1 --
+!import-table-item --Undead_Loot --A moldy, torn treasure map with mysterious markings --1 --
+!import-table-item --Undead_Loot --A cracked bottle of cursed rum --1 --
+!import-table-item --Undead_Loot --A jar of enchanted coral that glows in the dark --1 --
+!import-table-item --Undead_Loot --A moldy, cobweb-covered telescope with a cracked lens --1 --
+!import-table-item --Undead_Loot --A set of ghostly footprints that appear and disappear at will --1 --
+!import-table-item --Undead_Loot --A jar of ghostly whispers that reveal hidden secrets --1 --
+!import-table-item --Undead_Loot --A moldy, rotting pirate's hat with a faded feather --1 --
+!import-table-item --Undead_Loot --A set of broken navigational instruments --1 --
+!import-table-item --Undead_Loot --A jar of eerie glowing sea water --1 --
+!import-table-item --Undead_Loot --A tattered, bloodstained flag with a ghostly emblem --1 --
+!import-table-item --Undead_Loot --A moldy, torn logbook with cryptic entries --1 --
+!import-table-item --Undead_Loot --A set of ghostly chains that rattle and clank on their own --1 --
+!import-table-item --Undead_Loot --A jar of cursed sea sand that brings bad luck to those who touch it --1 --
+!import-table-item --Undead_Loot --A broken sextant that shows strange, otherworldly constellations --1 --
+!import-table-item --Undead_Loot --A moldy, waterlogged tricorn hat with a ghostly glow --1 --
+!import-table-item --Undead_Loot --A set of ancient, ghost-infested navigational charts --1 --
+!import-table-item --Undead_Loot --A jar of enchanted sea shells that grant glimpses into the future --1 --
+!import-table-item --Undead_Loot --A cracked bottle of ghostly fog that obscures vision --1 --
+!import-table-item --Undead_Loot --A moldy, torn flag with eerie, glowing symbols --1 --
+!import-table-item --Undead_Loot --A set of cursed ship's logs that recount the ship's tragic history --1 --
+!import-table-item --Undead_Loot --A jar of ghostly whispers that reveal the ship's secrets --1 --
+!import-table-item --Undead_Loot --A moldy, rotting sea chest with a hidden compartment --1 --
+!import-table-item --Undead_Loot --A set of broken, ghost-ridden ship's lanterns --1 --
+!import-table-item --Undead_Loot --A jar of enchanted sea water that grants temporary immortality --1 --
+!import-table-item --Undead_Loot --A moldy, cobweb-covered captain's hat with a mysterious insignia --1 --
+!import-table-item --Undead_Loot --A cracked bottle of cursed seaweed that ensnares those who touch it --1 --
+!import-table-item --Undead_Loot --A set of ghostly footprints that lead to hidden treasure --1 --
+!import-table-item --Undead_Loot --A jar of ghostly laughter that echoes through the ship's corridors --1 --
+!import-table-item --Undead_Loot --A moldy, rotting treasure chest with a ghostly guardian --1 --
+!import-table-item --Undead_Loot --A set of ancient, cursed navigational tools that lead astray --1 --
+!import-table-item --Undead_Loot --A jar of enchanted sea stones that reveal the ship's past --1 --
+!import-table-item --Undead_Loot --A broken sextant that shows glimpses of parallel dimensions --1 --
+!import-table-item --Undead_Loot --A moldy, torn ship's log with entries from long-dead sailors --1 --
+!import-table-item --Undead_Loot --A set of ghostly voices that whisper warnings and prophecies --1 --
+!import-table-item --Undead_Loot --A jar of cursed mermaid scales that bring misfortune --1 --
+!import-table-item --Undead_Loot --A cracked bottle of ghostly fog that reveals hidden paths --1 --
+!import-table-item --Undead_Loot --A moldy, waterlogged treasure map with a trail of clues --1 --
+!import-table-item --Undead_Loot --A set of haunted ship's cannons that fire on their own --1 --
+!import-table-item --Undead_Loot --A jar of ghostly whispers that speak of a long-lost treasure hoard --1 --
+
+
+
