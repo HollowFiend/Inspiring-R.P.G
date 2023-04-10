@@ -1,5 +1,9 @@
 ☠️Pirate-Loot☠️
 /w gm &{template:default} {{name=Loot}}{{[[1t[?{which|Pirate_Ship_Loot|Pirate_Loot}]]]}}
+💰Human_Undead💰
+/w gm &{template:default} {{name=Loot}}{{[[1t[?{which|Undead_Loot|Human_Loot}]]]}}
+🔨Dwarf_Loot🔨
+/w gm &{template:default} {{name=Loot}}{{[[1t[?{which|Dwarf_Ship_Loot|Dwarf_Loot}]]]}}
 
 🏃‍♂️Initiative:🏃‍♂️
 &{template:default} {{name=@{selected|token_name} Initiative}} {{Initiative=[[1d20+@{selected|initiative_bonus} &{tracker}]]}}
